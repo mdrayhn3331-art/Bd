@@ -1,0 +1,11 @@
+FFT SHOP REAL v3
+
+1) Supabase Dashboard খুলুন
+2) SQL Editor -> New query
+3) এই ফোল্ডারের FFT_SHOP_FULL_SQL.sql পুরোটা paste করুন
+4) Run চাপুন
+5) Authentication -> Providers -> Phone ON করুন
+6) এরপর index.html/website deploy করুন
+
+Supabase URL + Publishable Key app.js এবং auth.js-এ আগে থেকেই বসানো আছে।
+Service-role/secret key frontend-এ ব্যবহার করবেন না।
